@@ -1,0 +1,3 @@
+#READ-ME
+
+Essa é uma aplicação de estudo de teste integrado utiliazado o WebApplicationFactory do pacote Microsoft.AspNetCore.Mvc.Testing
