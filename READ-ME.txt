@@ -1,3 +1,4 @@
 #READ-ME
 
-Essa é uma aplicação de estudo de teste integrado utiliazado o WebApplicationFactory do pacote Microsoft.AspNetCore.Mvc.Testing
+Uma aplicação de estudo em .NET 6 uma API Web que utiliza o WebApplicationFactory da Microsoft para realizar testes integrados. O WebApplicationFactory é uma classe que permite criar uma instância do servidor de aplicação em memória para testar suas APIs de forma mais eficiente. Com o .NET 6, O uso do WebApplicationFactory simplifica a configuração e execução dos testes integrados, permitindo que você valide o comportamento da API em um ambiente controlado e replicável. É uma ótima escolha para desenvolvedores que desejam criar testes de integração mais eficazes e automatizados em suas aplicações .NET 6.
+
